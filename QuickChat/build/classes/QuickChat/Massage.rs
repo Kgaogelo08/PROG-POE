@@ -1,0 +1,2 @@
+quickchat.Massage
+quickchat.Message
